@@ -18,12 +18,14 @@ In the second part of the workshop we explore package image.darknet by BNOSAC ht
 where we show how to use this packkage for: 
 * classification 
 
-                label probability
-1 Rhodesian ridgeback  0.31284952
-2   Italian greyhound  0.17719932
-3       Irish terrier  0.10811522
-4          Weimaraner  0.06727524
-5             redbone  0.06160372
+
+                
+   label probability
+#          television  0.09365018
+# Rhodesian ridgeback  0.04842183
+#              screen  0.04134710
+#             redbone  0.03906697
+#       Irish terrier  0.03865860
 
 * and detection of the objects in the image.
 ![Test Image 1](https://github.com/Kyoshido/workshop_e-Rum2020_darknet/blob/master/saved_predictions/dog_tv.png)
