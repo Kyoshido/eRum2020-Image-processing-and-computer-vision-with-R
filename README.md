@@ -17,7 +17,12 @@ https://github.com/LStepanek/eRum_2020_image_processing_and_computer_vision_with
 In the second part of the workshop we explore package image.darknet by BNOSAC https://github.com/bnosac/image
 where we show how to use this packkage for: 
 * classification 
-IMG_1031
+                label probability
+1 Rhodesian ridgeback  0.31284952
+2   Italian greyhound  0.17719932
+3       Irish terrier  0.10811522
+4          Weimaraner  0.06727524
+5             redbone  0.06160372
 
 * and detection of the objects in the image.
 ![Test Image 1](https://github.com/Kyoshido/workshop_e-Rum2020_darknet/blob/master/saved_predictions/dog_tv.png)
