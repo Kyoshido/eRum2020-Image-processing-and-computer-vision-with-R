@@ -18,9 +18,7 @@ In the second part of the workshop we explore package image.darknet by BNOSAC ht
 where we show how to use this packkage for: 
 * classification 
 
-
-                
-   label probability
+___________    label    probability
 #.          television  0.09365018
 #. Rhodesian ridgeback  0.04842183
 #.              screen  0.04134710
