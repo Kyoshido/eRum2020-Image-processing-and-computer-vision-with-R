@@ -16,19 +16,17 @@ https://github.com/LStepanek/eRum_2020_image_processing_and_computer_vision_with
 ## First part of workhop by Jiří Novák
 In the second part of the workshop we explore package image.darknet by BNOSAC https://github.com/bnosac/image
 where we show how to use this packkage for: 
-* classification 
+* classification of the objects in the image
 
 ||label|probability|
 |:---|:---:|---:|
-||label|probability|
 |1|television|0.09365018|
 |2|Rhodesian ridgeback|0.04842183|
 |3|screen|0.04134710|
 |4|redbone|0.03906697|
 |5|Irish terrier|0.03865860|
 
-
-* and detection of the objects in the image.
-![Test Image 1](https://github.com/Kyoshido/workshop_e-Rum2020_darknet/blob/master/saved_predictions/dog_tv.png)
+* detection of the objects in the image.
+![dog_tv](https://github.com/Kyoshido/workshop_e-Rum2020_darknet/blob/master/saved_predictions/dog_tv.png)
 
 
