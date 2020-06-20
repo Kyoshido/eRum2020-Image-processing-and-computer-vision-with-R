@@ -13,8 +13,8 @@ In this workshop, we will revisit available packages such as magick, imager, EBI
 ## First part of workhop by Lubomír Štěpánek
 https://github.com/LStepanek/eRum_2020_image_processing_and_computer_vision_with_R/
 
-## First part of workhop by Jiří Novák
-In the second part of the workshop we explore package image.darknet by BNOSAC https://github.com/bnosac/image
+## Second part of workhop by Jiří Novák
+In the second part of the workshop we explore package [image.darknet](https://github.com/bnosac/image) by BNOSAC,
 where we show how to use this packkage for: 
 * classification of the objects in the image
 
