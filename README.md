@@ -21,11 +21,11 @@ where we show how to use this packkage for:
 
                 
    label probability
-#          television  0.09365018
-# Rhodesian ridgeback  0.04842183
-#              screen  0.04134710
-#             redbone  0.03906697
-#       Irish terrier  0.03865860
+#.          television  0.09365018
+#. Rhodesian ridgeback  0.04842183
+#.              screen  0.04134710
+#.             redbone  0.03906697
+#.       Irish terrier  0.03865860
 
 * and detection of the objects in the image.
 ![Test Image 1](https://github.com/Kyoshido/workshop_e-Rum2020_darknet/blob/master/saved_predictions/dog_tv.png)
