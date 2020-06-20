@@ -12,3 +12,7 @@ In this workshop, we will revisit available packages such as magick, imager, EBI
 
 ## First part of workhop by Lubomír Štěpánek
 https://github.com/LStepanek/eRum_2020_image_processing_and_computer_vision_with_R/
+
+## First part of workhop by Jiří Novák
+
+
